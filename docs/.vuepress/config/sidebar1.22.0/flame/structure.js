@@ -1,5 +1,5 @@
 export default {
-    text: "文件结构(默认GPT版)",
+    text: "|-文件结构",
     collapsible: true,
     link: "/guide/flame/structure.chatgpt.md",
     children: [

@@ -1,7 +1,7 @@
 {
   "name": "flame-docs-cn",
   "version": "1.0.0",
-  "description": "",
+  "description": "Flame 中文教程丨基于1.20.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

@@ -1,13 +1,3 @@
-这段文档介绍了如何在使用 Flame 游戏框架时实现页面路由和导航，具体包括 `RouterComponent` 的使用。以下是翻译：
-
-```{flutter-app}
-:sources: ../flame/examples
-:page: router
-:show: widget code infobox
-
-这个示例应用展示了如何使用 `RouterComponent` 在游戏中实现多个屏幕之间的导航。此外，“暂停”按钮会停止时间，并应用视觉效果到其下方的页面内容。
-```
-
 # RouterComponent
 
 **RouterComponent** 的作用是管理游戏中多个屏幕之间的导航。它的功能类似于 Flutter 的 [Navigator][Flutter Navigator] 类，区别在于它是与 Flame 组件而非 Flutter 小部件一起使用的。

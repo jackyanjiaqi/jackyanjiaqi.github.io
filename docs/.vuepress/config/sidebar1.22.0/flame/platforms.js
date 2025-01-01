@@ -1,5 +1,5 @@
 export default {
-    text: "平台(默认GPT版)",
+    text: "|-平台",
     collapsible: true,
     link: "/guide/flame/platforms.chatgpt.md",
     children: [

@@ -1,5 +1,5 @@
 export default {
-    text: "悬浮层(默认GPT版)",
+    text: "|-悬浮层",
     collapsible: true,
     link: "/guide/flame/overlays.chatgpt.md",
     children: [

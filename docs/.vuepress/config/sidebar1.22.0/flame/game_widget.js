@@ -1,5 +1,5 @@
 export default {
-    text: "游戏小部件(默认GPT版)",
+    text: "|-游戏小部件",
     collapsible: true,
     link: "/guide/flame/game_widget.chatgpt.md",
     children: [

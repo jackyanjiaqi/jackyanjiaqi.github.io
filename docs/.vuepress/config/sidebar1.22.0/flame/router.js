@@ -1,5 +1,5 @@
 export default {
-    text: "路由(默认GPT版)",
+    text: "|-路由",
     collapsible: true,
     link: "/guide/flame/router.chatgpt.md",
     children: [

@@ -1,5 +1,5 @@
 export default {
-    text: "相机组件(默认千问版)",
+    text: "|-相机组件",
     collapsible: true,
     link: "/guide/flame/camera_component.qwen.md",
     children: [
@@ -14,7 +14,5 @@ export default {
     {
         text: "英文原版",
         link: "/guide/flame/camera_component.md"
-    },
-    
-    ]
+    },]
 }

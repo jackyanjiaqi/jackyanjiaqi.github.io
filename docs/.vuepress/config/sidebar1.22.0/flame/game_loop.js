@@ -1,5 +1,5 @@
 export default {
-    text: "游戏循环(默认GPT版)",
+    text: "|-游戏循环",
     collapsible: true,
     link: "/guide/flame/game.chatgpt.md",
     children: [

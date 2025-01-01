@@ -1,5 +1,5 @@
 export default {
-    text: "组件(默认千问版)",
+    text: "|-组件",
     collapsible: true,
     link: "/guide/flame/components.qwen.md",
     children: [
