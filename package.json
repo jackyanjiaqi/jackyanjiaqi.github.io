@@ -1,7 +1,7 @@
 {
   "name": "flame-docs-cn",
   "version": "1.0.0",
-  "description": "Flame 中文教程丨基于1.20.0",
+  "description": "AI 融合游戏引擎丨Flame 中文教程丨基于 flame_1.22.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
