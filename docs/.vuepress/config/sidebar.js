@@ -8,4 +8,7 @@ import flame from './sidebar1.22.0/flame/flame';
 
 // const otherModules = require('./sidebar1.1.1/other_modules/other_modules')
 
-export default [flame]
+export default [{
+    text: "入门指南",
+    link: "/"
+}, flame]

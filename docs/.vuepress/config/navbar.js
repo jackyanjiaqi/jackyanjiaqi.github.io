@@ -1,7 +1,11 @@
 module.exports = [
   {
-    text: '版本 1.1.1',
-    link: 'https://docs.flame-engine.org/1.1.1/'
+    text: 'AI 融合游戏引擎丨加微信：DigitalSpriteJack',
+    link: 'https://docs.flame-engine.org/1.22.0/'
+  },
+  {
+    text: 'flame版本 1.22.0',
+    link: 'https://docs.flame-engine.org/1.22.0/'
   },
   {
     text: '官网',
@@ -13,12 +17,5 @@ module.exports = [
   {
     text: 'Github',
     link: 'https://github.com/flame-engine/flame'
-  },
-  {
-    text: '文档仓库',
-    children: [
-      { text: 'Github', link: 'https://github.com/ilgnefz/flame-cn' },
-      { text: 'Gitee', link: 'https://gitee.com/ilgnefz/flame-cn' }
-    ]
   }
 ]
