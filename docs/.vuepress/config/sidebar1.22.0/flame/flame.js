@@ -1,4 +1,4 @@
-import camera_component from './camera_component';
+import camera from './camera_component';
 import collision_detection from './collision_detection';
 import components from './components';
 import effects from './effects';
@@ -11,22 +11,22 @@ import overlays from './overlays';
 import platforms from './platforms';
 import rendering from './rendering';
 import router from './router';
-import structure from './structure';
+import assets_structure from './structure';
 
 export default {
     text: "▼ Flame（文件结构..）",
     link: "/guide/flame/structure.chatgpt.md",
     collapsible: true,
     children: [
-        structure,
         game_widget,
         game_loop,
         components,
+        camera,
+        assets_structure,
         router,
         platforms,
         collision_detection,
         effects,
-        camera_component,
         inputs,
         rendering,
         layout,

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-BZlJFCNj.js";const l={};function r(o,c){return a(),t("div")}const _=e(l,[["render",r],["__file","util.1.23.0.html.vue"]]),n=JSON.parse('{"path":"/guide/flame/other/util.1.23.0.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"guide/flame/other/util.1.23.0.md"}');export{_ as comp,n as data};

@@ -1,7 +1,7 @@
 {
   "name": "flame-docs-cn",
-  "version": "1.0.0",
-  "description": "AI 融合游戏引擎丨Flame 中文教程丨基于 flame_1.22.0",
+  "version": "1.0.1",
+  "description": "AI 融合游戏引擎丨Flame 中文教程丨基于 flame_1.22.0丨最新 1.23.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
     "docs:build": "vuepress build docs"
   },
   "keywords": [],
-  "author": "",
+  "author": "jackyanjiaqi",
   "license": "ISC",
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.19",
